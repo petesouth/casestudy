@@ -12,3 +12,5 @@ setup.txt - tells how to run the server localhost no docker.
 requirments.txt once you have a virtual environment env  pip install -r requirements.txt 
           (As the dockerfile does)
 
+Note.. In this case.. I have Django hooked up to mysql running in the db/dockerfile.   root/password default.
+Ready to run migrations, add models etc.
